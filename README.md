@@ -19,4 +19,5 @@ Malaria Diagnosis using Tensorflow
 #### 2. conda install -c anaconda seaborn
 #### 3. conda install -c anaconda tensorflow-gpu
 #### 4. pip install tensorflow==2.10.0
-#### 4. pip install ipywidgets
+#### 5. pip install tensorflow-datasets==4.9.2
+#### 6. pip install ipywidgets
