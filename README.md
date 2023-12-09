@@ -22,3 +22,4 @@ Malaria Diagnosis using Tensorflow
 #### 5. pip install tensorflow-datasets==4.9.2
 #### 6. pip install -U scikit-learn
 #### 7. pip install ipywidgets
+#### 8. pip install tensorflow-probability==0.18.0
