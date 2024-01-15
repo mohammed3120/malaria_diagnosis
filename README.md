@@ -24,3 +24,4 @@ Malaria Diagnosis using Tensorflow
 #### 7. pip install ipywidgets
 #### 8. pip install tensorflow-probability==0.18.0
 #### 9. pip install opencv-python
+#### 10. pip install -U tensorboard-plugin-profile
